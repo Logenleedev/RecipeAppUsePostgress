@@ -15,4 +15,4 @@ new recipe!
 DEMO:
 
 
-![](May-07-2019 17-19-24.gif)
+![](DEMO.gif)
