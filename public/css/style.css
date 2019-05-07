@@ -1,0 +1,22 @@
+.col-md-offset-2.col-md-7 {
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.card {
+    margin: 20px;
+   
+}
+
+.card-body button {
+    margin-left: 12rem;
+}
+
+
+#edit-button {
+    margin-left: 1rem;
+}
+
+#Delete-button {
+    margin-left: 1rem;
+}
