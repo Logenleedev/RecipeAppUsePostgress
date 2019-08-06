@@ -15,7 +15,7 @@
     "dustjs-helpers": "*",
     "dustjs-linkedin": "*",
     "express": "*",
-    "pg": "^6.1.0",
+    "pg": "^6.1.6",
     "ramda": "^0.26.1"
   }
 }
